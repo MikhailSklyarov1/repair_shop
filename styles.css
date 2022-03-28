@@ -1,0 +1,17 @@
+.elem-container { margin: 5% }
+.pict-label {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.img-size {
+    max-width: 200px;
+}
+
+.name-edit {
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.create {
+    margin-left: 91%;
+}
